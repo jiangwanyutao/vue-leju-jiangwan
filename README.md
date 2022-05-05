@@ -46,33 +46,26 @@
 
   ### 页面展示
   + 登录页面
-![登录页面](http://ch.jwyt.cloud/view.php/2e8c108d23eaa10e2059818331389432.png)
 
 ![登录页面](src/icons/login.png)
   
   + 首页数据大屏 (数据均为模拟出来的假数据)
-    ![avatar](http://ch.jwyt.cloud/view.php/d4d182054827d3b24cd17f10f9d68ba3.png
-)
+![首页数据大屏](src/icons/dapin.png)
 
   + 权限管理,资源管理页面
-    ![avatar](http://ch.jwyt.cloud/view.php/0245b7fb4bdbe73e1211f01b2eeb00a9.png
-)
+![权限管理,资源管理页面](src/icons/quan.png)
 
   + 商品管理,商品列表
-    ![avatar](http://ch.jwyt.cloud/view.php/f75b4dc49de1a3026472bb0595fa2881.png
-)
+![商品管理,商品列表](src/icons/shang.png)
   
-  + 文章管理,新增文章
-    ![avatar](http://ch.jwyt.cloud/view.php/4ea614b8f2a05e2d32cb8ff1c367fc72.png
-)
+  + 文章管理,新增文章页面
+![文章管理,新增文章](src/icons/wen.png)
   
   + 订单管理,订单详情
-    ![avatar](http://ch.jwyt.cloud/view.php/da36e627e851e653aa30dd4a3a0063d3.png
-)
+![输入图片说明](src/icons/ding.png)
   
-  + 个人中心
-    ![avatar](http://ch.jwyt.cloud/view.php/3400c88d4256da89446ceac1be9327d1.png
-)
+  + 个人中心页面
+![个人中心](src/icons/geren.png)
 
 ## 主要使用的技术栈
   + vue-router
