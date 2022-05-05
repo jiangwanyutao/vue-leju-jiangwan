@@ -25,11 +25,8 @@
   - 个人中心
 
 
- 乐居客户端项目仓库地址: 
 
- 乐居后台管理项目仓库地址: 
-
- 乐居后台项目在线预览地址: 
+ 乐居后台项目在线预览地址:  http://yutaocangku.gitee.io/vue-leju-jiangwan
 
  乐居项目的接口地址: http://leju.bufan.cloud/swagger-ui.html 
 
