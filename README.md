@@ -47,6 +47,8 @@
   ### 页面展示
   + 登录页面
 ![登录页面](http://ch.jwyt.cloud/view.php/2e8c108d23eaa10e2059818331389432.png)
+
+![登录页面](src/icons/login.png)
   
   + 首页数据大屏 (数据均为模拟出来的假数据)
     ![avatar](http://ch.jwyt.cloud/view.php/d4d182054827d3b24cd17f10f9d68ba3.png
